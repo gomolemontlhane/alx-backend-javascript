@@ -41,7 +41,7 @@ node 0-get_list_students.js
 
 0. Get List of Students
 
-- File: 0-get_list_students.js
+- File: `0-get_list_students.js`
 - Description: Returns an array of objects representing students.
 
 1. Get List of Student IDs
