@@ -10,7 +10,7 @@ Technologies
 
 ## Project Structure
 
-Tasks
+# Tasks
 
 Task 0: Creating an interface for a student
 Task 1: Let's build a Teacher interface
@@ -79,40 +79,49 @@ Task 0: Creating an interface for a student
 - Description: This task involves creating an interface Student with attributes such as firstName, lastName, age, and location. It also includes rendering this data into a table.
 
 Task 1: Let's build a Teacher interface
-File: `task_1/js/main.ts`
-Description: This task defines a Teacher interface and explores the concept of optional and read-only attributes.
+
+- File: `task_1/js/main.ts`
+- Description: This task defines a Teacher interface and explores the concept of optional and read-only attributes.
 
 Task 2: Extending the Teacher class
-File: `task_1/js/main.ts`
-Description: We extend the Teacher interface to create a new Directors interface that adds an additional attribute numberOfReports.
+
+- File: `task_1/js/main.ts`
+- Description: We extend the Teacher interface to create a new Directors interface that adds an additional attribute numberOfReports.
 
 Task 3: Printing teachers
-File: `task_1/js/main.ts`
-Description: This task introduces the printTeacher function, which accepts the first name and last name and returns a formatted string.
+
+- File: `task_1/js/main.ts`
+- Description: This task introduces the printTeacher function, which accepts the first name and last name and returns a formatted string.
 
 Task 4: Writing a class
-File: `task_1/js/main.ts`
-Description: A StudentClass is implemented to handle various student-related operations.
+
+- File: `task_1/js/main.ts`
+- Description: A StudentClass is implemented to handle various student-related operations.
 
 Task 5: Advanced types Part 1
-File: `task_2/js/main.ts`
-Description: Advanced typing concepts are introduced, along with the creation of a createEmployee function that handles both Teacher and Director.
+
+- File: `task_2/js/main.ts`
+- Description: Advanced typing concepts are introduced, along with the creation of a createEmployee function that handles both Teacher and Director.
 
 Task 6: Creating functions specific to employees
-File: `task_2/js/main.ts`
-Description: Functions like isDirector and executeWork are added, depending on the employee type.
+
+- File: `task_2/js/main.ts`
+- Description: Functions like isDirector and executeWork are added, depending on the employee type.
 
 Task 7: String literal types
-File: `task_2/js/main.ts`
-Description: The task adds string literal types to define which subjects can be taught by a teacher, and implements a teachClass function.
+
+- File: `task_2/js/main.ts`
+- Description: The task adds string literal types to define which subjects can be taught by a teacher, and implements a teachClass function.
 
 Task 8: Ambient Namespaces
-File: `task_3/js/main.ts`
-Description: This task explores the use of ambient namespaces for CRUD operations, along with interfaces for handling data.
+
+- File: `task_3/js/main.ts`
+- Description: This task explores the use of ambient namespaces for CRUD operations, along with interfaces for handling data.
 
 Task 9: Namespace & Declaration merging
-File: `task_4/js/Teacher.ts`, `task_4/js/Subject.ts`, `task_4/js/Cpp.ts`
-Description: Declaration merging and the use of namespaces to handle classes like `Cpp` and `Subject`.
+
+- File: `task_4/js/Teacher.ts`, `task_4/js/Subject.ts`, `task_4/js/Cpp.ts`
+- Description: Declaration merging and the use of namespaces to handle classes like `Cpp` and `Subject`.
 
 # Setup Instructions
 
